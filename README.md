@@ -1,3 +1,2 @@
 # Hello-World
-Just another repository
-Ho HO HO HOHHOHOHO
+Starting a new python project.
